@@ -1,0 +1,6 @@
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.ReferenceDatasets.FeatureSources.Interfaces\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.FeatureSources.Interfaces.dll.config
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.ReferenceDatasets.FeatureSources.Interfaces\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.FeatureSources.Interfaces.dll
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.ReferenceDatasets.FeatureSources.Interfaces\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.FeatureSources.Interfaces.pdb
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.ReferenceDatasets.FeatureSources.Interfaces\src\Main\obj\Release\Geocoding.Core.ReferenceDatasets.FeatureSources.Interfaces.Dev.csprojResolveAssemblyReference.cache
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.ReferenceDatasets.FeatureSources.Interfaces\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.FeatureSources.Interfaces.dll
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.ReferenceDatasets.FeatureSources.Interfaces\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.ReferenceDatasets.FeatureSources.Interfaces.pdb
