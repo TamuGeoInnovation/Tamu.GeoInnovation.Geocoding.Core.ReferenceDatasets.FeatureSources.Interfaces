@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Diagnostics;
 using USC.GISResearchLab.Common.Addresses;
 using USC.GISResearchLab.Common.Core.Geocoders.FeatureMatching;
 using USC.GISResearchLab.Common.Core.Maths.NumericStrings;
@@ -8,18 +9,17 @@ using USC.GISResearchLab.Common.Geographics.Units;
 using USC.GISResearchLab.Geocoding.Core.Algorithms.FeatureInterpolationMethods.Interfaces;
 using USC.GISResearchLab.Geocoding.Core.Algorithms.FeatureMatchingMethods;
 using USC.GISResearchLab.Geocoding.Core.Algorithms.FeatureMatchScorers;
+using USC.GISResearchLab.Geocoding.Core.Configurations;
 using USC.GISResearchLab.Geocoding.Core.Metadata.FeatureMatchingResults;
 using USC.GISResearchLab.Geocoding.Core.Metadata.Qualities;
 using USC.GISResearchLab.Geocoding.Core.Queries.Parameters;
 using USC.GISResearchLab.Geocoding.Core.ReferenceDatasets.ReferenceFeatures;
 using USC.GISResearchLab.Geocoding.Core.ReferenceDatasets.ReferenceFeatureSets;
 using USC.GISResearchLab.Geocoding.Core.ReferenceDatasets.ReferenceSourceQueries;
-using System.Diagnostics;
-using USC.GISResearchLab.Geocoding.Core.Configurations;
 
 namespace USC.GISResearchLab.Common.Core.Geocoders.ReferenceDatasets.Sources.Interfaces
 {
-    public interface IFeatureSource: IDisposable, ICloneable
+    public interface IFeatureSource : IDisposable, ICloneable
     {
         TraceSource TraceSource { get; set; }
         int Reads { get; set; }
