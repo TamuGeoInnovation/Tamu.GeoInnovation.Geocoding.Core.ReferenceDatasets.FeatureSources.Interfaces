@@ -28,7 +28,8 @@ namespace USC.GISResearchLab.Common.Core.Geocoders.ReferenceDatasets.Sources.Int
         int Misses { get; set; }
 
         bool HasCoverageRestrictions { get; set; }
-        string[] CoverageRestrictions { get; set; }
+        string[] CoverageRestrictionsAllowable { get; set; }
+        string[] CoverageRestrictionsNotAllowable { get; set; }
         string CoverageRestrictionsString { get; }
 
         bool IsRelaxable { get; }
